@@ -16,6 +16,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>rajesh</finalName>
+    <!-- <finalName>rajesh</finalName> -->
+    <finalName>${project.artifactId}-${project.version}</finalName>
   </build>
 </project>
