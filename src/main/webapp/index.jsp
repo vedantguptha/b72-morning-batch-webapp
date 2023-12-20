@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Project D.2 Creating & Deploying Web Application to Server
+    using Maven</h2>
 </body>
 </html>
