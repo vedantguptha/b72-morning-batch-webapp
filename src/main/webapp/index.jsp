@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Project D.2 Creating & Deploying Web Application to Server
-    using Maven</h2>
+<center><h1>CI/CD Architecture
+– Project 1</h1> </center>
 </body>
 </html>
